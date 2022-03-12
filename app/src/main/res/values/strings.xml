@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotificationExmapleIT</string>
+    <string name="startservicetext">Запустить сервис</string>
+    <string name="title">Пример создания текста</string>
+    <string name="stopServiceText">Остановить сервис</string>
+</resources>
